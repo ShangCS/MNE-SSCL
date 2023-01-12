@@ -17,7 +17,7 @@ def parse_args():
     parser.add_argument('--patience', type=int, default=100, help='patience for early stopping')
     parser.add_argument('--gpu_num', type=int, default=0, help='the id of gpu to use')
     parser.add_argument('--k', type=int, default=5, help='Clustering number parameter')
-    parser.add_argument('--t', type=float, default=1, help='Cos function parameter')
+    parser.add_argument('--t', type=float, default=1, help='Sim function parameter')
     
     parser.add_argument('--coef_n', type=float, default=1.0, 
                         help='Intra_view structure leve: coefficient for the structure loss of intra-view')
