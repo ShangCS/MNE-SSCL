@@ -1,3 +1,5 @@
+### Multi-view Network Embedding with Structure and Semantic Contrastive Learning
+
 ## Requirements
 - Python 3.6
 - numpy>=1.19.5
