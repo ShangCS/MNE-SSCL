@@ -25,3 +25,10 @@ Each dataset is a dictionary containing the following keys:
 
 ## Results
 ./Results/best_model/ stores the best result for each dataset.
+
+## Paper
+Please cite our paper if you find the code useful for your research.
+
+```
+
+```
