@@ -30,5 +30,5 @@ Each dataset is a dictionary containing the following keys:
 Please cite our paper if you find the code useful for your research.
 
 ```
-
+Yifan Shang, Xiucai Ye, and Tetsuya Sakurai. "Multi-view Network Embedding with Structure and Semantic Contrastive Learning." 2023 IEEE International Conference on Multimedia and Expo (ICME). IEEE, 2023.
 ```
